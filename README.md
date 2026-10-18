@@ -9,12 +9,12 @@
   </a>
 </p>
 
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-mohammadrehan.pages.dev-06b6d4?style=for-the-badge&logo=cloudflare&logoColor=white)](https://mohammadrehan.pages.dev)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-rehanquantlab.com-06b6d4?style=for-the-badge&logo=cloudflare&logoColor=white)](https://rehanquantlab.com)
 [![Organization](https://img.shields.io/badge/Lab-rehanquantlab-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rehanquantlab)
 [![GitHub](https://img.shields.io/badge/GitHub-mohammadrehan1621-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammadrehan1621)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammad--rehan--tech-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-rehan-tech/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B91_70915_18548-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917091518548?text=Hello%20Rehan,%20I%20found%20you%20via%20your%20GitHub%20profile.)
-[![Email](https://img.shields.io/badge/Lab_Email-rehanquantlab%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rehanquantlab@gmail.com)
+[![Email](https://img.shields.io/badge/Lab_Email-founder%40rehanquantlab.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:founder@rehanquantlab.com)
 
 <p align="center">
   <b>Bridging 4+ years of commercial operations leadership with fault-tolerant distributed systems, autonomous AI swarms & institutional FinTech.</b><br>
@@ -127,9 +127,9 @@
 
 ### 📬 Direct Fast-Connect & Verified Routes
 
-- 🌐 **Interactive Portfolio**: [mohammadrehan.pages.dev](https://mohammadrehan.pages.dev)
+- 🌐 **Interactive Portfolio**: [rehanquantlab.com](https://rehanquantlab.com)
 - 💬 **WhatsApp Direct**: [+91 70915 18548](https://wa.me/917091518548?text=Hello%20Rehan,%20I%20found%20you%20via%20your%20GitHub%20profile.)
-- 📧 **Official Lab Email**: [rehanquantlab@gmail.com](mailto:rehanquantlab@gmail.com)
+- 📧 **Official Lab Email**: [founder@rehanquantlab.com](mailto:founder@rehanquantlab.com)
 - 🏢 **GitHub Organization**: [github.com/rehanquantlab](https://github.com/rehanquantlab)
 - 💼 **LinkedIn Profile**: [linkedin.com/in/mohammad-rehan-tech](https://www.linkedin.com/in/mohammad-rehan-tech/)
-- 📄 **Executive Resume**: Verified & ATS-Optimized ([Mohammad_Rehan_Resume.pdf](https://mohammadrehan.pages.dev/Mohammad_Rehan_Resume.pdf))
+- 📄 **Executive Resume**: Verified & ATS-Optimized ([Mohammad_Rehan_Resume.pdf](https://rehanquantlab.com/Mohammad_Rehan_Resume.pdf))
