@@ -1,19 +1,20 @@
 <div align="center">
 
 # Hi there, I'm Mohammad Rehan 👋
-### Founder &amp; Lead Systems Architect @ **Rehan Quant Lab**
+### Founder &amp; Lead Systems Architect @ **Rehan Quant Lab™**
 
 <p align="center">
   <a href="https://mohammadrehan.pages.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=680&lines=Founder+%26+Lead+Architect+%40+Rehan+Quant+Lab;Creator+of+AegisDB+(2.62M+Ops%2Fsec+In-Memory+Engine);The+Holy+Trinity+(Aegis+%E2%80%A2+Chaos+%E2%80%A2+Phoenix);Institutional+Quant+Options+Sniper+(AWS+Mumbai)" alt="Mohammad Rehan Dynamic Role Rotator" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=680&lines=Founder+%26+Lead+Architect+%40+Rehan+Quant+Lab%E2%84%A2;Creator+of+AegisDB%E2%84%A2+(2.62M+Ops%2Fsec+In-Memory+Engine);The+Holy+Trinity+(Aegis+%E2%80%A2+Chaos+%E2%80%A2+Phoenix);Institutional+Quant+Options+Sniper+(AWS+Mumbai)" alt="Mohammad Rehan Dynamic Role Rotator" />
   </a>
 </p>
 
 [![Portfolio](https://img.shields.io/badge/Live_Portfolio-mohammadrehan.pages.dev-06b6d4?style=for-the-badge&logo=cloudflare&logoColor=white)](https://mohammadrehan.pages.dev)
+[![Organization](https://img.shields.io/badge/Lab-rehanquantlab-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rehanquantlab)
 [![GitHub](https://img.shields.io/badge/GitHub-mohammadrehan1621-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammadrehan1621)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammad--rehan--tech-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-rehan-tech/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B91_70915_18548-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917091518548?text=Hello%20Rehan,%20I%20found%20you%20via%20your%20GitHub%20profile.)
-[![Email](https://img.shields.io/badge/Direct_Email-rehankhan20871621%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rehankhan20871621@gmail.com)
+[![Email](https://img.shields.io/badge/Lab_Email-rehanquantlab%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rehanquantlab@gmail.com)
 
 <p align="center">
   <b>Bridging 4+ years of commercial operations leadership with fault-tolerant distributed systems, autonomous AI swarms & institutional FinTech.</b><br>
@@ -128,6 +129,7 @@
 
 - 🌐 **Interactive Portfolio**: [mohammadrehan.pages.dev](https://mohammadrehan.pages.dev)
 - 💬 **WhatsApp Direct**: [+91 70915 18548](https://wa.me/917091518548?text=Hello%20Rehan,%20I%20found%20you%20via%20your%20GitHub%20profile.)
-- 📧 **Direct Email**: [rehankhan20871621@gmail.com](mailto:rehankhan20871621@gmail.com)
+- 📧 **Official Lab Email**: [rehanquantlab@gmail.com](mailto:rehanquantlab@gmail.com)
+- 🏢 **GitHub Organization**: [github.com/rehanquantlab](https://github.com/rehanquantlab)
 - 💼 **LinkedIn Profile**: [linkedin.com/in/mohammad-rehan-tech](https://www.linkedin.com/in/mohammad-rehan-tech/)
 - 📄 **Executive Resume**: Verified & ATS-Optimized ([Mohammad_Rehan_Resume.pdf](https://mohammadrehan.pages.dev/Mohammad_Rehan_Resume.pdf))
