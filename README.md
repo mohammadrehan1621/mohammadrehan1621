@@ -1,24 +1,58 @@
 <div align="center">
 
 # Hi there, I'm Mohammad Rehan 👋
-### Software Architect & Tech Lead • Full-Stack Systems Engineer • Patna, India
+
+<p align="center">
+  <a href="https://mohammadrehan.pages.dev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=680&lines=Senior+AI+Systems+Architect+%26+Tech+Lead;Creator+of+The+Holy+Trinity+(Aegis+%E2%80%A2+Chaos+%E2%80%A2+Phoenix);AegisOps+%E2%80%94+Autonomous+AI+Agent+Operations+SaaS;Institutional+Quant+Derivatives+Sniper+(Sub-8ms);Store+Manager+%26+Systems+Architect+%40+Ladies+Zone" alt="Mohammad Rehan Dynamic Role Rotator" />
+  </a>
+</p>
 
 [![Portfolio](https://img.shields.io/badge/Live_Portfolio-mohammadrehan.pages.dev-06b6d4?style=for-the-badge&logo=cloudflare&logoColor=white)](https://mohammadrehan.pages.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-mohammadrehan1621-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammadrehan1621)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammad--rehan--tech-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-rehan-tech/)
-[![Email](https://img.shields.io/badge/Direct_Email-rehankhan20871621@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rehankhan20871621@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B91_70915_18548-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917091518548?text=Hello%20Rehan,%20I%20found%20you%20via%20your%20GitHub%20profile.)
+[![Email](https://img.shields.io/badge/Direct_Email-rehankhan20871621%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rehankhan20871621@gmail.com)
 
 <p align="center">
-  <b>Bridging 4+ years of commercial operations leadership with fault-tolerant distributed systems & algorithmic FinTech.</b>
+  <b>Bridging 4+ years of commercial operations leadership with fault-tolerant distributed systems, autonomous AI swarms & institutional FinTech.</b><br>
+  <i>Patna, Bihar, India • Global Edge Deployment Readiness</i>
 </p>
 
 ---
 
 </div>
 
+### 🏢 Featured Product: [AegisOps — Autonomous AI Agent Operations SaaS](https://github.com/mohammadrehan1621/autonomous-agent-ops-saas)
+> **The Holy Trinity (Aegis • Chaos • Phoenix) Antifragile Mission Control** • [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-autonomous--agent--ops--saas-6366f1?style=flat&logo=github)](https://github.com/mohammadrehan1621/autonomous-agent-ops-saas) [![MIT License](https://img.shields.io/badge/License-MIT-emerald?style=flat)](https://github.com/mohammadrehan1621/autonomous-agent-ops-saas/blob/main/LICENSE) [![Pytest](https://img.shields.io/badge/Pytest-19%2F19%20Passed-10b981?style=flat)](https://github.com/mohammadrehan1621/autonomous-agent-ops-saas)  
+> A multi-tenant AgentOps SaaS platform enforcing Nassim Taleb's Golden Rule of Resilience: Multi-agent systems must never recover to a vulnerable status quo—every auto-heal permanently hardens execution envelopes and advances Genomic Generations.
+
+```
+┌────────────────────────────────────────────────────────────────────────┐
+│                        AEGISOPS SAAS ENGINE                            │
+│  [Web Mission Control :8510]  ──►  [Multi-Agent Fleet Registry]        │
+│  [Public REST API :8000]      ──►  [Ash Ledger SQLite WAL Journaling]  │
+│  [pip install aegisops SDK]   ──►  [Genomic Generation Evolution]      │
+│  Key Metrics: Sub-10ms MTTR  •  $0.00 Capital Impact  •  19/19 Tests   │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+<details open>
+<summary><b>🔍 Click to Expand: 4 Core SaaS Pillars of AegisOps</b></summary>
+<br>
+
+1. **🖥️ Web Mission Control Studio (`:8510`)**: Streamlit Mission Control Studio with real-time agent fleet observability, live health telemetry, cost & token ceiling guards, and interactive chaos injection console.
+2. **🤖 Multi-Agent Fleet Registry**: Central supervisor monitoring swarms across states (Idle, Running, Stressed, Resurrecting, Immune), tracking genomic generations and self-healing epochs.
+3. **⚡ Public High-Throughput REST API (`:8000`)**: FastAPI REST endpoints for distributed task dispatching, heartbeat auditing, state verification, and write-ahead Ash Ledger SQLite micro-journaling.
+4. **📦 Downloadable Python SDK (`pip install aegisops`)**: Drop-in client resilience library enabling third-party agents to auto-heal from LLM rate limits (429), hallucinated JSON, and tool timeout hangs.
+
+</details>
+
+---
+
 ### 🛡️⚡🔥 [The Holy Trinity: Aegis • Chaos • Phoenix](https://github.com/mohammadrehan1621/aegis-chaos-phoenix)
-> **Autonomous Antifragile Resilience Framework & Continuous Immunity Sentinel** • [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-aegis--chaos--phoenix-10b981?style=flat&logo=github)](https://github.com/mohammadrehan1621/aegis-chaos-phoenix)  
-> Enforcing the **Golden Rule of Resilience**: Systems do not merely recover to a fragile status quo; they auto-heal into a permanently evolved, hardened state.
+> **Autonomous Antifragile Resilience Framework & Continuous Immunity Sentinel** • [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-aegis--chaos--phoenix-10b981?style=flat&logo=github)](https://github.com/mohammadrehan1621/aegis-chaos-phoenix) [![MIT License](https://img.shields.io/badge/License-MIT-emerald?style=flat)](https://github.com/mohammadrehan1621/aegis-chaos-phoenix/blob/main/LICENSE)  
+> Enforcing the **Golden Rule of Resilience**: Software must auto-heal into a permanently evolved, stronger state rather than vulnerable status-quo recovery.
 
 | Pillar | Codename | Core Mission & Invariants | Verified Performance Metric |
 | :--- | :--- | :--- | :--- |
@@ -26,56 +60,55 @@
 | ⚡ **The Trial** | **CHAOS** | Continuous Level-5 Doomsday Gauntlet subjecting runtime nodes to 8 exchange disaster shockwaves (WebSocket drops, Binance 429 spikes, flash crashes, SQLite contention). | **100.0% Gauntlet Certified** |
 | 🔥 **The Rebirth** | **PHOENIX** | Ash Ledger Zero-Loss Write-Ahead Micro-Journaling (WAL), high-speed supervisor pod hot-resurrection, and Antifragile Mutation Engine (+25% adaptive parameter stiffening). | **MTTR: <50ms • $0.00 Loss** |
 
-#### 🔄 Why This Closed-Loop Works: The 5-Step Lifecycle
+<details>
+<summary><b>🔄 Click to Expand: Why This Closed-Loop Works (The 5-Step Perpetual Hardening Lifecycle)</b></summary>
+<br>
+
 1. **🛡️ Step 1: Aegis Pre-Audit (Static Health & Contract Verification)**: Scans the codebase with AST inspection to guarantee zero syntax traps, zero unpacking mismatches (`validate_order`), and verifies precision floor quantization.
 2. **🌪️ Step 2: Chaos Gauntlet (Adversarial Shock Injection)**: Deliberately bombards the system with 8 real exchange disasters (WebSocket severing, Binance HTTP 429 rate-limit spikes, -5% flash crashes, SQLite lock contention, toxic wicks).
 3. **🔥 Step 3: Phoenix & Antifragile Evolution (Heal & Mutate)**: Phoenix detects stress, auto-heals any thread in <500ms with $0.00 capital impact, and invokes the Antifragile Mutation Engine (`cryptobot/antifragile.py`) to increment Genomic Generation and elevate Immunity Score.
 4. **🛡️ Step 4: Aegis Post-Audit (Mathematical Re-Verification)**: Re-audits mutated parameters to mathematically guarantee that evolution caused zero precision drift, zero race conditions, and 100% wallet profit retention.
-5. **🔄 Step 5: Perpetual Hardening (Continuous Loop)**: The closed loop repeats perpetually across live operations, making the engine systematically more resilient to unforeseen Binance and exchange anomalies.
+5. **🔄 Step 5: Perpetual Hardening (Continuous Loop)**: The closed loop repeats perpetually across live operations, making the engine systematically more resilient to unforeseen exchange anomalies.
 
-#### ⚖️ The 3 Institutional Production Traps Solved
+</details>
+
+<details>
+<summary><b>⚖️ Click to Expand: The 3 Institutional Production Traps Solved (The 1% Rule)</b></summary>
+<br>
+
 - **Trap 1: Paranoia Lockout Prevention** — Biological Envelope clamping ensures mutated confluence stays within $[88\%, 95\%]$ and max spread within $[0.08\%, 0.25\%]$, mathematically forbidding execution paralysis.
 - **Trap 2: Air-Gapped Shock Isolation** — `SimulationRAM` memory quarantine strictly separates synthetic chaos from live exchange order wires, guaranteeing exactly $\$0.00$ live capital impact during adversarial testing.
 - **Trap 3: Evolutionary Half-Life** — Calm-regime mean reversion decays defensive hyper-stiffening back to Gen 1 baselines when market turbulence normalizes, preventing permanent sensitivity degradation.
 
----
-
-### 🛠️ Core Architecture Stack
-
-- **Antifragile Resilience & SRE**: The Holy Trinity ([aegis-chaos-phoenix](https://github.com/mohammadrehan1621/aegis-chaos-phoenix)), Write-Ahead Logging (WAL) Micro-Journaling, Level-5 Chaos Engineering, Sub-50ms MTTR Process Supervision, Dynamic AST Poison Quarantine, Circuit Breakers.
-- **FinTech & Algorithmic Trading**: Low-Latency Multi-Agent Derivatives Execution (NSE NIFTY/BANKNIFTY), Spot 15m VWAP Stop-Loss Guards, 0-DTE Theta Decay Shields, Sub-8ms AWS Mumbai Fiber Proximity.
-- **Full-Stack & Systems Engineering**: Python 3.12, AsyncIO, SQLite, Streamlit, HTML5/CSS3, Modern JavaScript, Thermal Printer Protocol (ESC/POS), ReportLab PDF Engine.
-- **Cloud Infrastructure & Security**: AWS Mumbai (`ap-south-1`), Cloudflare Pages Edge, Zero-Trust Private WireGuard Mesh (ZTNA), Linux systemd Real-Time Priority (`Nice=-10`).
+</details>
 
 ---
 
-### 🏛️ Flagship Production Architectures
+### ⚡ [Indian Quant Options Sniper](https://github.com/mohammadrehan1621/indian-quant-options-sniper)
+> **Institutional-Grade Algorithmic Derivatives Swarm Engine** • [![MIT License](https://img.shields.io/badge/License-MIT-emerald?style=flat)](https://github.com/mohammadrehan1621/indian-quant-options-sniper/blob/main/LICENSE)  
+> Deployed live on AWS Mumbai (`ap-south-1`) with sub-8ms deterministic fiber proximity to the National Stock Exchange (NSE).
 
-#### 1. [The Holy Trinity: Aegis • Chaos • Phoenix](https://github.com/mohammadrehan1621/aegis-chaos-phoenix)
-> Institutional-grade Closed-Loop Autonomous Resilience & Chaos Engineering Framework for High-Frequency Systems.
-- **5-Step Closed-Loop Lifecycle**: Aegis Pre-Audit ➔ Chaos Gauntlet ➔ Phoenix Heal & Mutate ➔ Aegis Post-Audit ➔ Perpetual Hardening.
-- **3 Institutional Traps Solved**: Paranoia Lockout Prevention, Air-Gapped Shock Isolation, and Evolutionary Half-Life.
-- **Ash Ledger & MTTR**: Sub-50ms hot process resurrection with zero state loss; 100% chaos defended against 8 exchange disaster scenarios.
-
-#### 2. [Indian Quant Options Sniper](https://github.com/mohammadrehan1621/indian-quant-options-sniper)
-> Institutional-grade multi-agent algorithmic derivatives execution engine deployed on AWS Mumbai with sub-8ms fiber proximity to NSE co-location.
 - **Deterministic Routing**: Direct atomic execution for $\le 24$ lots, eliminating retail double-brokerage and 500ms lag.
 - **Capital Shield**: Dynamic Spot 15m VWAP trailing stop-loss with 35% emergency disaster ceiling & 30% capital lock.
 - **Theta Filter**: Automated 13:30 IST Expiry Day rollover shielding capital against 0-DTE theta decay.
 
-#### 3. [Autonomous Video & Content Studio](https://github.com/mohammadrehan1621/autonomous-ai-shorts-studio)
-> End-to-end automated vertical video (9:16) production engine combining LLM script generation, neural TTS, and programmatic composition.
-- **Dynamic Subtitle Engine**: Hormozi-style animated word-by-word highlighted ASS subtitle rendering.
-- **Phoenix Supervised**: Zero memory-leak batch renders with automatic FFmpeg process quarantine.
+---
 
-#### 4. [Footwear & Fashion Commercial POS Suite](https://github.com/mohammadrehan1621/website-builder-engine)
-> Enterprise retail POS and inventory management ledger running commercial showroom operations in Patna.
-- **Hardware Integration**: Multi-counter concurrency, ESC/POS thermal receipt printing, and barcode scanner pipelines.
+### 📊 Real-Time GitHub Telemetry & Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mohammadrehan1621&show_icons=true&theme=tokyonight&hide_border=false&border_color=6366f1&bg_color=0f172a&title_color=38bdf8&icon_color=10b981&text_color=94a3b8" height="155" alt="Rehan's GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadrehan1621&theme=tokyonight&hide_border=false&border_color=6366f1&background=0f172a&ring=6366f1&fire=f59e0b&currStreakLabel=10b981" height="155" alt="Rehan's Streak Stats" />
+
+</div>
 
 ---
 
-### 📊 Verification & Contact
+### 📬 Direct Fast-Connect & Verified Routes
 
-- 🌐 **Portfolio & Interactive Labs**: [mohammadrehan.pages.dev](https://mohammadrehan.pages.dev)
+- 🌐 **Interactive Portfolio**: [mohammadrehan.pages.dev](https://mohammadrehan.pages.dev)
+- 💬 **WhatsApp Direct**: [+91 70915 18548](https://wa.me/917091518548?text=Hello%20Rehan,%20I%20found%20you%20via%20your%20GitHub%20profile.)
+- 📧 **Direct Email**: [rehankhan20871621@gmail.com](mailto:rehankhan20871621@gmail.com)
 - 💼 **LinkedIn Profile**: [linkedin.com/in/mohammad-rehan-tech](https://www.linkedin.com/in/mohammad-rehan-tech/)
-- 📄 **Executive Resume**: Verified & ATS-Optimized on Desktop (`Mohammad_Rehan_Resume.pdf`) and downloadable from portfolio.
+- 📄 **Executive Resume**: Verified & ATS-Optimized ([Mohammad_Rehan_Resume.pdf](https://mohammadrehan.pages.dev/Mohammad_Rehan_Resume.pdf))
