@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://mohammadrehan.pages.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=680&lines=Senior+AI+Systems+Architect+%26+Tech+Lead;Creator+of+The+Holy+Trinity+(Aegis+%E2%80%A2+Chaos+%E2%80%A2+Phoenix);AegisOps+%E2%80%94+Autonomous+AI+Agent+Operations+SaaS;Institutional+Quant+Derivatives+Sniper+(Sub-8ms);Store+Manager+%26+Systems+Architect+%40+Ladies+Zone" alt="Mohammad Rehan Dynamic Role Rotator" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=680&lines=Senior+AI+Systems+Architect+%26+Tech+Lead;Creator+of+AegisDB+(2.62M+Ops%2Fsec+In-Memory+Engine);The+Holy+Trinity+(Aegis+%E2%80%A2+Chaos+%E2%80%A2+Phoenix);Autonomous+AgentOps+SaaS+%26+Swarm+Execution;Institutional+Quant+Options+Sniper+(AWS+Mumbai)" alt="Mohammad Rehan Dynamic Role Rotator" />
   </a>
 </p>
 
@@ -22,6 +22,22 @@
 ---
 
 </div>
+
+### ⚡ Featured Database: [AegisDB — Distributed Antifragile In-Memory Database](https://github.com/mohammadrehan1621/aegis-db)
+> **Ultra-Low Latency In-Memory Engine for High-Frequency Systems** • [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-aegis--db-38bdf8?style=flat&logo=github)](https://github.com/mohammadrehan1621/aegis-db) [![MIT License](https://img.shields.io/badge/License-MIT-emerald?style=flat)](https://github.com/mohammadrehan1621/aegis-db/blob/main/LICENSE) [![Pytest](https://img.shields.io/badge/Pytest-12%2F12%20Passed-10b981?style=flat)](https://github.com/mohammadrehan1621/aegis-db)  
+> High-throughput in-memory key-value & circular tick buffer engine with sub-microsecond latency, Group Commit Ash Ledger Write-Ahead Logging (WAL), and storage-level invariant risk enforcement.
+
+```
+┌────────────────────────────────────────────────────────────────────────┐
+│                        AEGISDB IN-MEMORY ENGINE                        │
+│  [KV Store (RAM)]       ──►  2.62M Reads/sec (0.38µs) | 1.59M Writes/sec│
+│  [Circular Ring Buffer] ──►  526,000 Market Ticks/sec (Zero Heap GC)   │
+│  [Phoenix WAL Engine]   ──►  Group Commit Batching | 13.57ms MTTR      │
+│  [Storage Guardrails]   ──►  Database-Level 35% Max Drawdown Shield   │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+---
 
 ### 🏢 Featured Product: [AegisOps — Autonomous AI Agent Operations SaaS](https://github.com/mohammadrehan1621/autonomous-agent-ops-saas)
 > **The Holy Trinity (Aegis • Chaos • Phoenix) Antifragile Mission Control** • [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-autonomous--agent--ops--saas-6366f1?style=flat&logo=github)](https://github.com/mohammadrehan1621/autonomous-agent-ops-saas) [![MIT License](https://img.shields.io/badge/License-MIT-emerald?style=flat)](https://github.com/mohammadrehan1621/autonomous-agent-ops-saas/blob/main/LICENSE) [![Pytest](https://img.shields.io/badge/Pytest-19%2F19%20Passed-10b981?style=flat)](https://github.com/mohammadrehan1621/autonomous-agent-ops-saas)  
@@ -85,12 +101,14 @@
 ---
 
 ### ⚡ [Indian Quant Options Sniper](https://github.com/mohammadrehan1621/indian-quant-options-sniper)
-> **Institutional-Grade Algorithmic Derivatives Swarm Engine** • [![MIT License](https://img.shields.io/badge/License-MIT-emerald?style=flat)](https://github.com/mohammadrehan1621/indian-quant-options-sniper/blob/main/LICENSE)  
-> Deployed live on AWS Mumbai (`ap-south-1`) with sub-8ms deterministic fiber proximity to the National Stock Exchange (NSE).
+> **Institutional-Grade Algorithmic Derivatives Swarm Engine** • [![MIT License](https://img.shields.io/badge/License-MIT-emerald?style=flat)](https://github.com/mohammadrehan1621/indian-quant-options-sniper/blob/main/LICENSE) [![Roadmap Tests](https://img.shields.io/badge/Roadmap%20Tests-4%2F4%20Passed-10b981?style=flat)](https://github.com/mohammadrehan1621/indian-quant-options-sniper)  
+> Deployed live 24/7 on AWS Mumbai (`ap-south-1`) with sub-8ms deterministic fiber proximity to the National Stock Exchange (NSE).
 
+- **Embedded AegisDB Engine**: Sub-microsecond (<2µs) in-memory tick ring buffer and active trade state caching, eliminating SQLite lock contention.
 - **Deterministic Routing**: Direct atomic execution for $\le 24$ lots, eliminating retail double-brokerage and 500ms lag.
 - **Capital Shield**: Dynamic Spot 15m VWAP trailing stop-loss with 35% emergency disaster ceiling & 30% capital lock.
-- **Theta Filter**: Automated 13:30 IST Expiry Day rollover shielding capital against 0-DTE theta decay.
+- **Theta Filter**: Automated 14:45 IST Expiry Day rollover shielding capital against 0-DTE theta decay.
+- **Bidirectional Telegram Controller**: Encrypted Tailscale mesh control with remote `/status`, `/kill`, and real-time push execution alerts.
 
 ---
 
