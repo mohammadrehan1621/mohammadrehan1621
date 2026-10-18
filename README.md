@@ -25,8 +25,8 @@
 
 </div>
 
-### ⚡ Featured Database: [AegisDB — Distributed Antifragile In-Memory Database](https://github.com/mohammadrehan1621/aegis-db)
-> **Ultra-Low Latency In-Memory Engine for High-Frequency Systems** • [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-aegis--db-38bdf8?style=flat&logo=github)](https://github.com/mohammadrehan1621/aegis-db) [![MIT License](https://img.shields.io/badge/License-MIT-emerald?style=flat)](https://github.com/mohammadrehan1621/aegis-db/blob/main/LICENSE) [![Pytest](https://img.shields.io/badge/Pytest-12%2F12%20Passed-10b981?style=flat)](https://github.com/mohammadrehan1621/aegis-db) [![Lab](https://img.shields.io/badge/Lab-Rehan_Quant_Lab-6366f1?style=flat)](https://github.com/mohammadrehan1621)  
+### ⚡ Featured Database: [AegisDB — Distributed Antifragile In-Memory Database](https://github.com/rehanquantlab/aegis-db)
+> **Ultra-Low Latency In-Memory Engine for High-Frequency Systems** • [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-aegis--db-38bdf8?style=flat&logo=github)](https://github.com/rehanquantlab/aegis-db) [![MIT License](https://img.shields.io/badge/License-MIT-emerald?style=flat)](https://github.com/rehanquantlab/aegis-db/blob/main/LICENSE) [![Pytest](https://img.shields.io/badge/Pytest-12%2F12%20Passed-10b981?style=flat)](https://github.com/rehanquantlab/aegis-db) [![Lab](https://img.shields.io/badge/Lab-Rehan_Quant_Lab-6366f1?style=flat)](https://github.com/rehanquantlab)  
 > High-throughput in-memory key-value & circular tick buffer engine with sub-microsecond latency, Group Commit Ash Ledger Write-Ahead Logging (WAL), and storage-level invariant risk enforcement.
 
 ```
@@ -41,8 +41,8 @@
 
 ---
 
-### 🏢 Featured Product: [Autonomous AgentOps SaaS](https://github.com/mohammadrehan1621/autonomous-agent-ops-saas)
-> **The Holy Trinity (Aegis • Chaos • Phoenix) Antifragile Mission Control** • [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-autonomous--agent--ops--saas-6366f1?style=flat&logo=github)](https://github.com/mohammadrehan1621/autonomous-agent-ops-saas) [![MIT License](https://img.shields.io/badge/License-MIT-emerald?style=flat)](https://github.com/mohammadrehan1621/autonomous-agent-ops-saas/blob/main/LICENSE) [![Pytest](https://img.shields.io/badge/Pytest-19%2F19%20Passed-10b981?style=flat)](https://github.com/mohammadrehan1621/autonomous-agent-ops-saas) [![Lab](https://img.shields.io/badge/Lab-Rehan_Quant_Lab-6366f1?style=flat)](https://github.com/mohammadrehan1621)  
+### 🏢 Featured Product: [Autonomous AgentOps SaaS](https://github.com/rehanquantlab/autonomous-agent-ops-saas)
+> **The Holy Trinity (Aegis • Chaos • Phoenix) Antifragile Mission Control** • [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-autonomous--agent--ops--saas-6366f1?style=flat&logo=github)](https://github.com/rehanquantlab/autonomous-agent-ops-saas) [![MIT License](https://img.shields.io/badge/License-MIT-emerald?style=flat)](https://github.com/rehanquantlab/autonomous-agent-ops-saas/blob/main/LICENSE) [![Pytest](https://img.shields.io/badge/Pytest-19%2F19%20Passed-10b981?style=flat)](https://github.com/rehanquantlab/autonomous-agent-ops-saas) [![Lab](https://img.shields.io/badge/Lab-Rehan_Quant_Lab-6366f1?style=flat)](https://github.com/rehanquantlab)  
 > A multi-tenant AgentOps SaaS platform enforcing Nassim Taleb's Golden Rule of Resilience: Multi-agent systems must never recover to a vulnerable status quo—every auto-heal permanently hardens execution envelopes and advances Genomic Generations.
 
 ```
@@ -102,8 +102,8 @@
 
 ---
 
-### ⚡ [Indian Quant Options Sniper](https://github.com/mohammadrehan1621/indian-quant-options-sniper)
-> **Institutional-Grade Algorithmic Derivatives Swarm Engine** • [![MIT License](https://img.shields.io/badge/License-MIT-emerald?style=flat)](https://github.com/mohammadrehan1621/indian-quant-options-sniper/blob/main/LICENSE) [![Roadmap Tests](https://img.shields.io/badge/Roadmap%20Tests-4%2F4%20Passed-10b981?style=flat)](https://github.com/mohammadrehan1621/indian-quant-options-sniper) [![Lab](https://img.shields.io/badge/Lab-Rehan_Quant_Lab-6366f1?style=flat)](https://github.com/mohammadrehan1621)  
+### ⚡ [Indian Quant Options Sniper](https://github.com/rehanquantlab/indian-quant-options-sniper)
+> **Institutional-Grade Algorithmic Derivatives Swarm Engine** • [![MIT License](https://img.shields.io/badge/License-MIT-emerald?style=flat)](https://github.com/rehanquantlab/indian-quant-options-sniper/blob/main/LICENSE) [![Roadmap Tests](https://img.shields.io/badge/Roadmap%20Tests-4%2F4%20Passed-10b981?style=flat)](https://github.com/rehanquantlab/indian-quant-options-sniper) [![Lab](https://img.shields.io/badge/Lab-Rehan_Quant_Lab-6366f1?style=flat)](https://github.com/rehanquantlab)  
 > Deployed live 24/7 on AWS Mumbai (`ap-south-1`) with sub-8ms deterministic fiber proximity to the National Stock Exchange (NSE).
 
 - **Embedded AegisDB Engine**: Sub-microsecond (<2µs) in-memory tick ring buffer and active trade state caching, eliminating SQLite lock contention.
