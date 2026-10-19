@@ -4,7 +4,7 @@
 ### Founder &amp; Lead Systems Architect @ **Rehan Quant Lab™**
 
 <p align="center">
-  <a href="https://mohammadrehan.pages.dev">
+  <a href="https://rehanquantlab.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=680&lines=Founder+%26+Lead+Architect+%40+Rehan+Quant+Lab%E2%84%A2;Creator+of+AegisDB%E2%84%A2+(2.62M+Ops%2Fsec+In-Memory+Engine);The+Holy+Trinity+(Aegis+%E2%80%A2+Chaos+%E2%80%A2+Phoenix);Institutional+Quant+Options+Sniper+(AWS+Mumbai)" alt="Mohammad Rehan Dynamic Role Rotator" />
   </a>
 </p>
