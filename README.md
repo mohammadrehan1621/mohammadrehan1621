@@ -13,6 +13,8 @@
 [![Organization](https://img.shields.io/badge/Lab-rehanquantlab-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rehanquantlab)
 [![GitHub](https://img.shields.io/badge/GitHub-mohammadrehan1621-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammadrehan1621)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammad--rehan--tech-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-rehan-tech/)
+[![X (Twitter)](https://img.shields.io/badge/X-@rehanquantlab-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rehanquantlab)
+[![Substack](https://img.shields.io/badge/Substack-rehanquantlab-ff6719?style=for-the-badge&logo=substack&logoColor=white)](https://rehanquantlab.substack.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B91_70915_18548-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917091518548?text=Hello%20Rehan,%20I%20found%20you%20via%20your%20GitHub%20profile.)
 [![Email](https://img.shields.io/badge/Lab_Email-founder%40rehanquantlab.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:founder@rehanquantlab.com)
 
@@ -26,14 +28,16 @@
 </div>
 
 ### ⚡ Featured Database: [AegisDB — Distributed Antifragile In-Memory Database](https://github.com/rehanquantlab/aegis-db)
-> **Ultra-Low Latency In-Memory Engine for High-Frequency Systems** • [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-aegis--db-38bdf8?style=flat&logo=github)](https://github.com/rehanquantlab/aegis-db) [![MIT License](https://img.shields.io/badge/License-MIT-emerald?style=flat)](https://github.com/rehanquantlab/aegis-db/blob/main/LICENSE) [![Pytest](https://img.shields.io/badge/Pytest-12%2F12%20Passed-10b981?style=flat)](https://github.com/rehanquantlab/aegis-db) [![Lab](https://img.shields.io/badge/Lab-Rehan_Quant_Lab-6366f1?style=flat)](https://github.com/rehanquantlab)  
-> High-throughput in-memory key-value & circular tick buffer engine with sub-microsecond latency, Group Commit Ash Ledger Write-Ahead Logging (WAL), and storage-level invariant risk enforcement.
+> **Ultra-Low Latency In-Memory Engine for High-Frequency Systems** • [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-aegis--db-38bdf8?style=flat&logo=github)](https://github.com/rehanquantlab/aegis-db) [![MIT License](https://img.shields.io/badge/License-MIT-emerald?style=flat)](https://github.com/rehanquantlab/aegis-db/blob/main/LICENSE) [![Pytest](https://img.shields.io/badge/Pytest-16%2F16%20Passed-10b981?style=flat)](https://github.com/rehanquantlab/aegis-db) [![Native Kernel](https://img.shields.io/badge/Native_Kernel-C_AVX2_SIMD-blue?style=flat)](https://github.com/rehanquantlab/aegis-db) [![Lab](https://img.shields.io/badge/Lab-Rehan_Quant_Lab-6366f1?style=flat)](https://github.com/rehanquantlab)  
+> High-throughput in-memory key-value & circular tick buffer engine with sub-microsecond latency, Native C AVX2 Kernel Sidecar (`aegis_kernel_sidecar.c`), Group Commit Ash Ledger Write-Ahead Logging (WAL), and storage-level invariant risk enforcement.
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
 │                        AEGISDB IN-MEMORY ENGINE                        │
+│  [Native C AVX2 Kernel] ──►  21.4M SIMD Ops/sec (0.39µs Latency)       │
 │  [KV Store (RAM)]       ──►  2.62M Reads/sec (0.38µs) | 1.59M Writes/sec│
 │  [Circular Ring Buffer] ──►  526,000 Market Ticks/sec (Zero Heap GC)   │
+│  [Stoikov Micro-Price]  ──►  Sub-Nanosecond Volume-Weighted Fair Value │
 │  [Phoenix WAL Engine]   ──►  Group Commit Batching | 13.57ms MTTR      │
 │  [Storage Guardrails]   ──►  Database-Level 35% Max Drawdown Shield   │
 └────────────────────────────────────────────────────────────────────────┘
@@ -42,16 +46,19 @@
 ---
 
 ### 🏢 Featured Product: [Autonomous AgentOps SaaS](https://github.com/rehanquantlab/autonomous-agent-ops-saas)
-> **The Holy Trinity (Aegis • Chaos • Phoenix) Antifragile Mission Control** • [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-autonomous--agent--ops--saas-6366f1?style=flat&logo=github)](https://github.com/rehanquantlab/autonomous-agent-ops-saas) [![MIT License](https://img.shields.io/badge/License-MIT-emerald?style=flat)](https://github.com/rehanquantlab/autonomous-agent-ops-saas/blob/main/LICENSE) [![Pytest](https://img.shields.io/badge/Pytest-19%2F19%20Passed-10b981?style=flat)](https://github.com/rehanquantlab/autonomous-agent-ops-saas) [![Lab](https://img.shields.io/badge/Lab-Rehan_Quant_Lab-6366f1?style=flat)](https://github.com/rehanquantlab)  
+> **The Holy Trinity (Aegis • Chaos • Phoenix) Antifragile Mission Control** • [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-autonomous--agent--ops--saas-6366f1?style=flat&logo=github)](https://github.com/rehanquantlab/autonomous-agent-ops-saas) [![MIT License](https://img.shields.io/badge/License-MIT-emerald?style=flat)](https://github.com/rehanquantlab/autonomous-agent-ops-saas/blob/main/LICENSE) [![Pytest](https://img.shields.io/badge/Pytest-25%2F25%20Passed-10b981?style=flat)](https://github.com/rehanquantlab/autonomous-agent-ops-saas) [![Swarm](https://img.shields.io/badge/Swarm-7_Agent_Adversarial_Tribunal-indigo?style=flat)](https://github.com/rehanquantlab/autonomous-agent-ops-saas) [![Lab](https://img.shields.io/badge/Lab-Rehan_Quant_Lab-6366f1?style=flat)](https://github.com/rehanquantlab)  
 > A multi-tenant AgentOps SaaS platform enforcing Nassim Taleb's Golden Rule of Resilience: Multi-agent systems must never recover to a vulnerable status quo—every auto-heal permanently hardens execution envelopes and advances Genomic Generations.
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
 │                        AEGISOPS SAAS ENGINE                            │
+│  [Autonomous 7-Agent Swarm]   ──►  Adversarial Debate Bus (Pitch/Cross)│
+│  [Directional Toxicity Intel] ──►  Bullish Sweeps Pass • Dumps Vetoed  │
+│  [Post-Trade Forensic Tribunal]─►  MFE Trailing Stop Audit & Gen Boost │
 │  [Web Mission Control :8510]  ──►  [Multi-Agent Fleet Registry]        │
 │  [Public REST API :8000]      ──►  [Ash Ledger SQLite WAL Journaling]  │
 │  [pip install aegisops SDK]   ──►  [Genomic Generation Evolution]      │
-│  Key Metrics: Sub-10ms MTTR  •  $0.00 Capital Impact  •  19/19 Tests   │
+│  Key Metrics: Sub-10ms MTTR  •  $0.00 Capital Impact  •  25/25 Tests   │
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -103,14 +110,14 @@
 ---
 
 ### ⚡ [Indian Quant Options Sniper](https://github.com/rehanquantlab/indian-quant-options-sniper)
-> **Institutional-Grade Algorithmic Derivatives Swarm Engine** • [![MIT License](https://img.shields.io/badge/License-MIT-emerald?style=flat)](https://github.com/rehanquantlab/indian-quant-options-sniper/blob/main/LICENSE) [![Roadmap Tests](https://img.shields.io/badge/Roadmap%20Tests-4%2F4%20Passed-10b981?style=flat)](https://github.com/rehanquantlab/indian-quant-options-sniper) [![Lab](https://img.shields.io/badge/Lab-Rehan_Quant_Lab-6366f1?style=flat)](https://github.com/rehanquantlab)  
+> **Institutional-Grade Algorithmic Derivatives Swarm Engine** • [![MIT License](https://img.shields.io/badge/License-MIT-emerald?style=flat)](https://github.com/rehanquantlab/indian-quant-options-sniper/blob/main/LICENSE) [![Pytest](https://img.shields.io/badge/Pytest-9%2F9%20Passed-10b981?style=flat)](https://github.com/rehanquantlab/indian-quant-options-sniper) [![Swarm](https://img.shields.io/badge/Swarm-7_Specialists_(0.80µs)-blue?style=flat)](https://github.com/rehanquantlab/indian-quant-options-sniper) [![Lab](https://img.shields.io/badge/Lab-Rehan_Quant_Lab-6366f1?style=flat)](https://github.com/rehanquantlab)  
 > Deployed live 24/7 on AWS Mumbai (`ap-south-1`) with sub-8ms deterministic fiber proximity to the National Stock Exchange (NSE).
 
-- **Embedded AegisDB Engine**: Sub-microsecond (<2µs) in-memory tick ring buffer and active trade state caching, eliminating SQLite lock contention.
-- **Deterministic Routing**: Direct atomic execution for $\le 24$ lots, eliminating retail double-brokerage and 500ms lag.
-- **Capital Shield**: Dynamic Spot 15m VWAP trailing stop-loss with 35% emergency disaster ceiling & 30% capital lock.
-- **Theta Filter**: Automated 14:45 IST Expiry Day rollover shielding capital against 0-DTE theta decay.
-- **Bidirectional Telegram Controller**: Encrypted Tailscale mesh control with remote `/status`, `/kill`, and real-time push execution alerts.
+- **7-Agent Swarm Adversarial Tribunal**: 7 autonomous specialists debating signals with sub-microsecond in-memory cache lookup (**0.800 µs**).
+- **Directional Toxicity Intelligence**: Differentiates between hostile seller dumping (`CVD < 0` ➔ VETO) and aggressive buyer sweeps (`CVD > 0` ➔ PASS) under high VPIN.
+- **Embedded AegisDB In-Memory Engine**: Active in RAM (28.80µs write, 2.90µs read) with sub-microsecond drawdown invariant enforcement.
+- **Post-Trade Forensic Tribunal**: Post-fill slippage audit, 80.0% MFE trailing stop efficiency, and automated genomic parameter tuning.
+- **4-Step Bulletproof Execution**: 24-lot single ticket routing, Spot 15m VWAP anchored SL, 13:30 Theta rollover, and daemonized AWS systemd service.
 
 ---
 
@@ -128,6 +135,8 @@
 ### 📬 Direct Fast-Connect & Verified Routes
 
 - 🌐 **Interactive Portfolio**: [rehanquantlab.com](https://rehanquantlab.com)
+- 📝 **Technical Papers & Research**: [rehanquantlab.substack.com](https://rehanquantlab.substack.com)
+- 🐦 **Official X (Twitter)**: [@rehanquantlab](https://x.com/rehanquantlab)
 - 💬 **WhatsApp Direct**: [+91 70915 18548](https://wa.me/917091518548?text=Hello%20Rehan,%20I%20found%20you%20via%20your%20GitHub%20profile.)
 - 📧 **Official Lab Email**: [founder@rehanquantlab.com](mailto:founder@rehanquantlab.com)
 - 🏢 **GitHub Organization**: [github.com/rehanquantlab](https://github.com/rehanquantlab)
