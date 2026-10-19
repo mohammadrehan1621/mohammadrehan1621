@@ -76,8 +76,8 @@
 ---
 
 ### 🛡️⚡🔥 [The Holy Trinity: Aegis • Chaos • Phoenix](https://github.com/mohammadrehan1621/aegis-chaos-phoenix)
-> **Autonomous Antifragile Resilience Framework & Continuous Immunity Sentinel** • [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-aegis--chaos--phoenix-10b981?style=flat&logo=github)](https://github.com/mohammadrehan1621/aegis-chaos-phoenix) [![MIT License](https://img.shields.io/badge/License-MIT-emerald?style=flat)](https://github.com/mohammadrehan1621/aegis-chaos-phoenix/blob/main/LICENSE) [![Lab](https://img.shields.io/badge/Lab-Rehan_Quant_Lab-6366f1?style=flat)](https://github.com/mohammadrehan1621)  
-> Enforcing the **Golden Rule of Resilience**: Software must auto-heal into a permanently evolved, stronger state rather than vulnerable status-quo recovery.
+> **Autonomous Antifragile Resilience Framework & Continuous Immunity Sentinel** • [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-aegis--chaos--phoenix-10b981?style=flat&logo=github)](https://github.com/mohammadrehan1621/aegis-chaos-phoenix) [![Pytest](https://img.shields.io/badge/Pytest-13%2F13%20Passed-10b981?style=flat)](https://github.com/mohammadrehan1621/aegis-chaos-phoenix) [![Liquid Armor](https://img.shields.io/badge/Liquid_Armor-Water_to_Diamond-cyan?style=flat)](https://github.com/mohammadrehan1621/aegis-chaos-phoenix) [![MIT License](https://img.shields.io/badge/License-MIT-emerald?style=flat)](https://github.com/mohammadrehan1621/aegis-chaos-phoenix/blob/main/LICENSE) [![Lab](https://img.shields.io/badge/Lab-Rehan_Quant_Lab-6366f1?style=flat)](https://github.com/mohammadrehan1621)  
+> Enforcing the **Golden Rule of Resilience**: Software must auto-heal into a permanently evolved, stronger state rather than vulnerable status-quo recovery. Features Non-Newtonian Liquid Diamond Armor (`liquid_armor.py`) dynamically shifting physical execution state between fluid water and diamond fortress.
 
 | Pillar | Codename | Core Mission & Invariants | Verified Performance Metric |
 | :--- | :--- | :--- | :--- |
@@ -110,10 +110,11 @@
 ---
 
 ### ⚡ [Indian Quant Options Sniper](https://github.com/rehanquantlab/indian-quant-options-sniper)
-> **Institutional-Grade Algorithmic Derivatives Swarm Engine** • [![MIT License](https://img.shields.io/badge/License-MIT-emerald?style=flat)](https://github.com/rehanquantlab/indian-quant-options-sniper/blob/main/LICENSE) [![Pytest](https://img.shields.io/badge/Pytest-9%2F9%20Passed-10b981?style=flat)](https://github.com/rehanquantlab/indian-quant-options-sniper) [![Swarm](https://img.shields.io/badge/Swarm-7_Specialists_(0.80µs)-blue?style=flat)](https://github.com/rehanquantlab/indian-quant-options-sniper) [![Lab](https://img.shields.io/badge/Lab-Rehan_Quant_Lab-6366f1?style=flat)](https://github.com/rehanquantlab)  
+> **Institutional-Grade Algorithmic Derivatives Swarm Engine** • [![MIT License](https://img.shields.io/badge/License-MIT-emerald?style=flat)](https://github.com/rehanquantlab/indian-quant-options-sniper/blob/main/LICENSE) [![Pytest](https://img.shields.io/badge/Pytest-13%2F13%20Passed-10b981?style=flat)](https://github.com/rehanquantlab/indian-quant-options-sniper) [![Liquid Armor](https://img.shields.io/badge/Liquid_Armor-Water_to_Diamond-cyan?style=flat)](https://github.com/rehanquantlab/indian-quant-options-sniper) [![Swarm](https://img.shields.io/badge/Swarm-7_Specialists_(0.70µs)-blue?style=flat)](https://github.com/rehanquantlab/indian-quant-options-sniper) [![Lab](https://img.shields.io/badge/Lab-Rehan_Quant_Lab-6366f1?style=flat)](https://github.com/rehanquantlab)  
 > Deployed live 24/7 on AWS Mumbai (`ap-south-1`) with sub-8ms deterministic fiber proximity to the National Stock Exchange (NSE).
 
-- **7-Agent Swarm Adversarial Tribunal**: 7 autonomous specialists debating signals with sub-microsecond in-memory cache lookup (**0.800 µs**).
+- **Non-Newtonian Computational Liquid Diamond Armor**: Peacetime fluid water flow ($\le ₹0.05$ spread, 100% capacity), Dynamic Orderbook Spread Clamping ($\ge ₹1.50$ diamond lock), Hydraulic Volatility Damper (exponential sizing downshift to 25% on $+15\%$ VIX spikes before stop-loss touch), and Viscosity Damping Lockout ($\ge 75\%$ depth collapse trap evasion).
+- **7-Agent Swarm Adversarial Tribunal**: 7 autonomous specialists debating signals with sub-microsecond in-memory cache lookup (**0.700 µs**).
 - **Directional Toxicity Intelligence**: Differentiates between hostile seller dumping (`CVD < 0` ➔ VETO) and aggressive buyer sweeps (`CVD > 0` ➔ PASS) under high VPIN.
 - **Embedded AegisDB In-Memory Engine**: Active in RAM (28.80µs write, 2.90µs read) with sub-microsecond drawdown invariant enforcement.
 - **Post-Trade Forensic Tribunal**: Post-fill slippage audit, 80.0% MFE trailing stop efficiency, and automated genomic parameter tuning.
