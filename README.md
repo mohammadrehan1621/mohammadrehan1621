@@ -25,6 +25,18 @@
 
 ---
 
+### ⚖️ The Sovereign Creed: Gall's Law & Sun Tzu's Doctrine
+> *"A complex system that works is always found to have evolved from a simple system that worked. A complex system designed from scratch never works and cannot be made to work. There is no getting around it; we must start with a simple working system."*  
+> — **John Gall, Systems Engineering Law**
+>
+> *"All warfare is based on deception. When strong, appear weak. When near, make them believe you are far."*  
+> — **Sun Tzu, The Art of War**
+>
+> *"We must never build a monster we cannot understand. Deceptively simple and understated on the surface; unkillable, deterministic, and fortified with mathematical armor underneath."*  
+> — **Mohammad Rehan, Founder & Lead Systems Architect**
+
+---
+
 </div>
 
 ### ⚡ Featured Database: [AegisDB — Distributed High-Throughput In-Memory Engine](https://github.com/rehanquantlab/aegis-db)
