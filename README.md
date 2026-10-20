@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://rehanquantlab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=680&lines=Founder+%26+Lead+Architect+%40+Rehan+Quant+Lab%E2%84%A2;Creator+of+AegisDB%E2%84%A2+(2.62M+Ops%2Fsec+In-Memory+Engine);The+Holy+Trinity+(Aegis+%E2%80%A2+Chaos+%E2%80%A2+Phoenix);Institutional+Quant+Options+Sniper+(AWS+Mumbai)" alt="Mohammad Rehan Dynamic Role Rotator" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=680&lines=Founder+%26+Lead+Architect+%40+Rehan+Quant+Lab%E2%84%A2;Creator+of+AegisDB%E2%84%A2+(2.62M+Ops%2Fsec+In-Memory+Engine);Fault-Tolerant+Trading+Systems+(200%2F200+Tests+Passed);Institutional+Quant+Options+Sniper+(AWS+Mumbai)" alt="Mohammad Rehan Dynamic Role Rotator" />
   </a>
 </p>
 
@@ -19,17 +19,17 @@
 [![Email](https://img.shields.io/badge/Lab_Email-founder%40rehanquantlab.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:founder@rehanquantlab.com)
 
 <p align="center">
-  <b>Bridging 4+ years of commercial operations leadership with fault-tolerant distributed systems, autonomous AI swarms & institutional FinTech.</b><br>
-  <i>Patna, Bihar, India • Global Edge Deployment Readiness</i>
+  <b>Bridging 4+ years of commercial operations leadership with high-throughput distributed systems, deterministic quantitative finance & autonomous infrastructure.</b><br>
+  <i>Patna, Bihar, India • Global Edge Deployment Readiness • 200/200 Unit & Invariant Tests Passed</i>
 </p>
 
 ---
 
 </div>
 
-### ⚡ Featured Database: [AegisDB — Distributed Antifragile In-Memory Database](https://github.com/rehanquantlab/aegis-db)
-> **Ultra-Low Latency In-Memory Engine for High-Frequency Systems** • [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-aegis--db-38bdf8?style=flat&logo=github)](https://github.com/rehanquantlab/aegis-db) [![MIT License](https://img.shields.io/badge/License-MIT-emerald?style=flat)](https://github.com/rehanquantlab/aegis-db/blob/main/LICENSE) [![Pytest](https://img.shields.io/badge/Pytest-16%2F16%20Passed-10b981?style=flat)](https://github.com/rehanquantlab/aegis-db) [![Native Kernel](https://img.shields.io/badge/Native_Kernel-C_AVX2_SIMD-blue?style=flat)](https://github.com/rehanquantlab/aegis-db) [![Lab](https://img.shields.io/badge/Lab-Rehan_Quant_Lab-6366f1?style=flat)](https://github.com/rehanquantlab)  
-> High-throughput in-memory key-value & circular tick buffer engine with sub-microsecond latency, Native C AVX2 Kernel Sidecar (`aegis_kernel_sidecar.c`), Group Commit Ash Ledger Write-Ahead Logging (WAL), and storage-level invariant risk enforcement.
+### ⚡ Featured Database: [AegisDB — Distributed High-Throughput In-Memory Engine](https://github.com/rehanquantlab/aegis-db)
+> **Ultra-Low Latency In-Memory Engine for High-Frequency Quantitative Systems** • [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-aegis--db-38bdf8?style=flat&logo=github)](https://github.com/rehanquantlab/aegis-db) [![MIT License](https://img.shields.io/badge/License-MIT-emerald?style=flat)](https://github.com/rehanquantlab/aegis-db/blob/main/LICENSE) [![Pytest](https://img.shields.io/badge/Pytest-20%2F20%20Passed-10b981?style=flat)](https://github.com/rehanquantlab/aegis-db) [![Native Kernel](https://img.shields.io/badge/Native_Kernel-C_AVX2_SIMD-blue?style=flat)](https://github.com/rehanquantlab/aegis-db) [![Lab](https://img.shields.io/badge/Lab-Rehan_Quant_Lab-6366f1?style=flat)](https://github.com/rehanquantlab)  
+> High-throughput in-memory key-value & circular tick buffer engine with microsecond latency, Native C AVX2 Kernel Sidecar (`aegis_kernel_sidecar.c`), Group Commit Ash Ledger Write-Ahead Logging (WAL), and storage-level invariant risk enforcement.
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
@@ -37,28 +37,28 @@
 │  [Native C AVX2 Kernel] ──►  21.4M SIMD Ops/sec (0.39µs Latency)       │
 │  [KV Store (RAM)]       ──►  2.62M Reads/sec (0.38µs) | 1.59M Writes/sec│
 │  [Circular Ring Buffer] ──►  526,000 Market Ticks/sec (Zero Heap GC)   │
-│  [Stoikov Micro-Price]  ──►  Sub-Nanosecond Volume-Weighted Fair Value │
-│  [Phoenix WAL Engine]   ──►  Group Commit Batching | 13.57ms MTTR      │
-│  [Storage Guardrails]   ──►  Database-Level 35% Max Drawdown Shield   │
+│  [Stoikov Micro-Price]  ──►  Volume-Weighted Fair Value Calculation    │
+│  [Ash Ledger WAL]       ──►  Group Commit Batching | 13.57ms MTTR      │
+│  [Storage Guardrails]   ──►  Deterministic Drawdown Risk Invariants    │
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
 ### 🏢 Featured Product: [Autonomous AgentOps SaaS](https://github.com/rehanquantlab/autonomous-agent-ops-saas)
-> **The Holy Trinity (Aegis • Chaos • Phoenix) Antifragile Mission Control** • [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-autonomous--agent--ops--saas-6366f1?style=flat&logo=github)](https://github.com/rehanquantlab/autonomous-agent-ops-saas) [![MIT License](https://img.shields.io/badge/License-MIT-emerald?style=flat)](https://github.com/rehanquantlab/autonomous-agent-ops-saas/blob/main/LICENSE) [![Pytest](https://img.shields.io/badge/Pytest-25%2F25%20Passed-10b981?style=flat)](https://github.com/rehanquantlab/autonomous-agent-ops-saas) [![Swarm](https://img.shields.io/badge/Swarm-7_Agent_Adversarial_Tribunal-indigo?style=flat)](https://github.com/rehanquantlab/autonomous-agent-ops-saas) [![Lab](https://img.shields.io/badge/Lab-Rehan_Quant_Lab-6366f1?style=flat)](https://github.com/rehanquantlab)  
-> A multi-tenant AgentOps SaaS platform enforcing Nassim Taleb's Golden Rule of Resilience: Multi-agent systems must never recover to a vulnerable status quo—every auto-heal permanently hardens execution envelopes and advances Genomic Generations.
+> **Autonomous Agent Fleet Observability & Fault-Tolerant Resilience Engine** • [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-autonomous--agent--ops--saas-6366f1?style=flat&logo=github)](https://github.com/rehanquantlab/autonomous-agent-ops-saas) [![MIT License](https://img.shields.io/badge/License-MIT-emerald?style=flat)](https://github.com/rehanquantlab/autonomous-agent-ops-saas/blob/main/LICENSE) [![Pytest](https://img.shields.io/badge/Pytest-29%2F29%20Passed-10b981?style=flat)](https://github.com/rehanquantlab/autonomous-agent-ops-saas) [![Risk Matrix](https://img.shields.io/badge/Risk_Matrix-Deterministic_Bitmask-indigo?style=flat)](https://github.com/rehanquantlab/autonomous-agent-ops-saas) [![Lab](https://img.shields.io/badge/Lab-Rehan_Quant_Lab-6366f1?style=flat)](https://github.com/rehanquantlab)  
+> A multi-tenant AgentOps platform enforcing stateful fault recovery: multi-agent systems recover with adaptive backoff schedules, thread-level health verification, and zero uncommitted state loss.
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
 │                        AEGISOPS SAAS ENGINE                            │
-│  [Autonomous 7-Agent Swarm]   ──►  Adversarial Debate Bus (Pitch/Cross)│
-│  [Directional Toxicity Intel] ──►  Bullish Sweeps Pass • Dumps Vetoed  │
-│  [Post-Trade Forensic Tribunal]─►  MFE Trailing Stop Audit & Gen Boost │
-│  [Web Mission Control :8510]  ──►  [Multi-Agent Fleet Registry]        │
-│  [Public REST API :8000]      ──►  [Ash Ledger SQLite WAL Journaling]  │
-│  [pip install aegisops SDK]   ──►  [Genomic Generation Evolution]      │
-│  Key Metrics: Sub-10ms MTTR  •  $0.00 Capital Impact  •  25/25 Tests   │
+│  [Deterministic Risk Matrix] ──►  In-Memory Bitmask Verification (<10µs)│
+│  [Directional Toxicity Intel]──►  VPIN / CVD Order Flow Imbalance Check │
+│  [Post-Trade Forensic Audit] ──►  Execution Slippage & Trailing Ratchet │
+│  [Web Mission Control :8510] ──►  [Multi-Agent Fleet Observability]    │
+│  [Public REST API :8000]     ──►  [Ash Ledger SQLite WAL Micro-Journal]│
+│  [Python SDK (aegisops)]     ──►  [Stateful Retry & Epoch Counters]    │
+│  Key Metrics: Sub-10ms MTTR  •  $0.00 State Loss  •  29/29 Unit Tests  │
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -67,58 +67,60 @@
 <br>
 
 1. **🖥️ Web Mission Control Studio (`:8510`)**: Streamlit Mission Control Studio with real-time agent fleet observability, live health telemetry, cost & token ceiling guards, and interactive chaos injection console.
-2. **🤖 Multi-Agent Fleet Registry**: Central supervisor monitoring swarms across states (Idle, Running, Stressed, Resurrecting, Immune), tracking genomic generations and self-healing epochs.
+2. **🤖 Multi-Agent Fleet Supervisor**: Central supervisor monitoring worker state machines across states (Idle, Running, Stressed, Resurrecting, Operational), tracking error backoffs and execution epochs.
 3. **⚡ Public High-Throughput REST API (`:8000`)**: FastAPI REST endpoints for distributed task dispatching, heartbeat auditing, state verification, and write-ahead Ash Ledger SQLite micro-journaling.
-4. **📦 Downloadable Python SDK (`pip install aegisops`)**: Drop-in client resilience library enabling third-party agents to auto-heal from LLM rate limits (429), hallucinated JSON, and tool timeout hangs.
+4. **📦 Downloadable Python SDK (`pip install aegisops`)**: Drop-in client resilience library enabling third-party agents to handle LLM rate limits (429), parse errors, and tool timeout hangs.
 
 </details>
 
 ---
 
-### 🛡️⚡🔥 [The Holy Trinity: Aegis • Chaos • Phoenix](https://github.com/mohammadrehan1621/aegis-chaos-phoenix)
-> **Autonomous Antifragile Resilience Framework & Continuous Immunity Sentinel** • [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-aegis--chaos--phoenix-10b981?style=flat&logo=github)](https://github.com/mohammadrehan1621/aegis-chaos-phoenix) [![Pytest](https://img.shields.io/badge/Pytest-13%2F13%20Passed-10b981?style=flat)](https://github.com/mohammadrehan1621/aegis-chaos-phoenix) [![Liquid Armor](https://img.shields.io/badge/Liquid_Armor-Water_to_Diamond-cyan?style=flat)](https://github.com/mohammadrehan1621/aegis-chaos-phoenix) [![MIT License](https://img.shields.io/badge/License-MIT-emerald?style=flat)](https://github.com/mohammadrehan1621/aegis-chaos-phoenix/blob/main/LICENSE) [![Lab](https://img.shields.io/badge/Lab-Rehan_Quant_Lab-6366f1?style=flat)](https://github.com/mohammadrehan1621)  
-> Enforcing the **Golden Rule of Resilience**: Software must auto-heal into a permanently evolved, stronger state rather than vulnerable status-quo recovery. Features Non-Newtonian Liquid Diamond Armor (`liquid_armor.py`) dynamically shifting physical execution state between fluid water and diamond fortress.
+### 🛡️⚡🔥 [Aegis • Chaos • Phoenix: High-Availability Resilience Engine](https://github.com/mohammadrehan1621/aegis-chaos-phoenix)
+> **Fault-Tolerant Resilience Harness & Autonomous Process Supervisor** • [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-aegis--chaos--phoenix-10b981?style=flat&logo=github)](https://github.com/mohammadrehan1621/aegis-chaos-phoenix) [![Pytest](https://img.shields.io/badge/Pytest-17%2F17%20Passed-10b981?style=flat)](https://github.com/mohammadrehan1621/aegis-chaos-phoenix) [![Risk Model](https://img.shields.io/badge/Risk_Model-Dynamic_Spread_Clamping-cyan?style=flat)](https://github.com/mohammadrehan1621/aegis-chaos-phoenix) [![MIT License](https://img.shields.io/badge/License-MIT-emerald?style=flat)](https://github.com/mohammadrehan1621/aegis-chaos-phoenix/blob/main/LICENSE) [![Lab](https://img.shields.io/badge/Lab-Rehan_Quant_Lab-6366f1?style=flat)](https://github.com/mohammadrehan1621)  
+> Autonomous supervisor architecture designed to ensure continuous uptime and deterministic state recovery under adverse network and exchange anomalies.
 
-| Pillar | Codename | Core Mission & Invariants | Verified Performance Metric |
+| Pillar | Focus | Core Mission & Invariants | Verified Metric |
 | :--- | :--- | :--- | :--- |
-| 🛡️ **The Shield** | **AEGIS** | Zero-Trust Network Access (ZTNA) WireGuard private mesh, dynamic AST poison quarantine, and mathematical risk ceilings (35% disaster drawdown limit, 30% untouched reserve lock). | **100% Perimeter Defense** |
-| ⚡ **The Trial** | **CHAOS** | Continuous Level-5 Doomsday Gauntlet subjecting runtime nodes to 8 exchange disaster shockwaves (WebSocket drops, Binance 429 spikes, flash crashes, SQLite contention). | **100.0% Gauntlet Certified** |
-| 🔥 **The Rebirth** | **PHOENIX** | Ash Ledger Zero-Loss Write-Ahead Micro-Journaling (WAL), high-speed supervisor pod hot-resurrection, and Antifragile Mutation Engine (+25% adaptive parameter stiffening). | **MTTR: <50ms • $0.00 Loss** |
+| 🛡️ **AEGIS** | **Perimeter Security** | Zero-Trust Network Access (ZTNA) WireGuard private mesh, dynamic AST poison quarantine, and mathematical risk ceilings (35% disaster drawdown limit, 30% untouched reserve lock). | **100% Perimeter Defense** |
+| ⚡ **CHAOS** | **Adversarial Testing** | Continuous Level-5 Gauntlet subjecting runtime nodes to 8 simulated exchange anomalies (WebSocket disconnects, HTTP 429 rate limits, sudden orderbook gaps, SQLite concurrency contention). | **100.0% Gauntlet Certified** |
+| 🔥 **PHOENIX** | **Zero-Loss Recovery** | Ash Ledger Zero-Loss Write-Ahead Micro-Journaling (WAL), high-speed supervisor thread hot-restart, and adaptive parameter hardening. | **MTTR: <50ms • $0.00 State Loss** |
 
 <details>
-<summary><b>🔄 Click to Expand: Why This Closed-Loop Works (The 5-Step Perpetual Hardening Lifecycle)</b></summary>
+<summary><b>🔄 Click to Expand: Continuous Resilience Lifecycle</b></summary>
 <br>
 
-1. **🛡️ Step 1: Aegis Pre-Audit (Static Health & Contract Verification)**: Scans the codebase with AST inspection to guarantee zero syntax traps, zero unpacking mismatches (`validate_order`), and verifies precision floor quantization.
-2. **🌪️ Step 2: Chaos Gauntlet (Adversarial Shock Injection)**: Deliberately bombards the system with 8 real exchange disasters (WebSocket severing, Binance HTTP 429 rate-limit spikes, -5% flash crashes, SQLite lock contention, toxic wicks).
-3. **🔥 Step 3: Phoenix & Antifragile Evolution (Heal & Mutate)**: Phoenix detects stress, auto-heals any thread in <500ms with $0.00 capital impact, and invokes the Antifragile Mutation Engine (`cryptobot/antifragile.py`) to increment Genomic Generation and elevate Immunity Score.
-4. **🛡️ Step 4: Aegis Post-Audit (Mathematical Re-Verification)**: Re-audits mutated parameters to mathematically guarantee that evolution caused zero precision drift, zero race conditions, and 100% wallet profit retention.
-5. **🔄 Step 5: Perpetual Hardening (Continuous Loop)**: The closed loop repeats perpetually across live operations, making the engine systematically more resilient to unforeseen exchange anomalies.
-
-</details>
-
-<details>
-<summary><b>⚖️ Click to Expand: The 3 Institutional Production Traps Solved (The 1% Rule)</b></summary>
-<br>
-
-- **Trap 1: Paranoia Lockout Prevention** — Biological Envelope clamping ensures mutated confluence stays within $[88\%, 95\%]$ and max spread within $[0.08\%, 0.25\%]$, mathematically forbidding execution paralysis.
-- **Trap 2: Air-Gapped Shock Isolation** — `SimulationRAM` memory quarantine strictly separates synthetic chaos from live exchange order wires, guaranteeing exactly $\$0.00$ live capital impact during adversarial testing.
-- **Trap 3: Evolutionary Half-Life** — Calm-regime mean reversion decays defensive hyper-stiffening back to Gen 1 baselines when market turbulence normalizes, preventing permanent sensitivity degradation.
+1. **🛡️ Step 1: Pre-Audit Contract Verification**: Scans runtime state and configuration with AST inspection to guarantee zero syntax traps, zero parameter mismatches, and precision floor quantization.
+2. **🌪️ Step 2: Chaos Injection Harness**: Simulates adverse real-world exchange anomalies (WebSocket drops, HTTP 429 rate limits, spread blowouts, and database lock contention).
+3. **🔥 Step 3: Phoenix Hot-Recovery**: Supervises execution threads, auto-restarts failed workers with zero state corruption via SQLite WAL micro-journaling.
+4. **🛡️ Step 4: Mathematical Re-Verification**: Verifies post-recovery state invariants to ensure capital integrity and zero state drift.
+5. **🔄 Step 5: Continuous Supervision**: Maintains 24/7 background heartbeats across all connected execution modules.
 
 </details>
 
 ---
 
 ### ⚡ [Indian Quant Options Sniper](https://github.com/rehanquantlab/indian-quant-options-sniper)
-> **Institutional-Grade Algorithmic Derivatives Swarm Engine** • [![MIT License](https://img.shields.io/badge/License-MIT-emerald?style=flat)](https://github.com/rehanquantlab/indian-quant-options-sniper/blob/main/LICENSE) [![Pytest](https://img.shields.io/badge/Pytest-13%2F13%20Passed-10b981?style=flat)](https://github.com/rehanquantlab/indian-quant-options-sniper) [![Liquid Armor](https://img.shields.io/badge/Liquid_Armor-Water_to_Diamond-cyan?style=flat)](https://github.com/rehanquantlab/indian-quant-options-sniper) [![Swarm](https://img.shields.io/badge/Swarm-7_Specialists_(0.70µs)-blue?style=flat)](https://github.com/rehanquantlab/indian-quant-options-sniper) [![Lab](https://img.shields.io/badge/Lab-Rehan_Quant_Lab-6366f1?style=flat)](https://github.com/rehanquantlab)  
-> Deployed live 24/7 on AWS Mumbai (`ap-south-1`) with sub-8ms deterministic fiber proximity to the National Stock Exchange (NSE).
+> **Institutional Quantitative Derivatives Execution Engine** • [![MIT License](https://img.shields.io/badge/License-MIT-emerald?style=flat)](https://github.com/rehanquantlab/indian-quant-options-sniper/blob/main/LICENSE) [![Pytest](https://img.shields.io/badge/Pytest-17%2F17%20Passed-10b981?style=flat)](https://github.com/rehanquantlab/indian-quant-options-sniper) [![Risk Model](https://img.shields.io/badge/Risk_Model-Dynamic_Spread_Clamping-cyan?style=flat)](https://github.com/rehanquantlab/indian-quant-options-sniper) [![Risk Matrix](https://img.shields.io/badge/Risk_Matrix-Deterministic_Bitmask_(%3C10µs)-blue?style=flat)](https://github.com/rehanquantlab/indian-quant-options-sniper) [![Lab](https://img.shields.io/badge/Lab-Rehan_Quant_Lab-6366f1?style=flat)](https://github.com/rehanquantlab)  
+> Deployed live 24/7 on AWS Mumbai (`ap-south-1`) with direct in-region gateway peering to Kotak Neo API endpoints.
 
-- **Non-Newtonian Computational Liquid Diamond Armor**: Peacetime fluid water flow ($\le ₹0.05$ spread, 100% capacity), Dynamic Orderbook Spread Clamping ($\ge ₹1.50$ diamond lock), Hydraulic Volatility Damper (exponential sizing downshift to 25% on $+15\%$ VIX spikes before stop-loss touch), and Viscosity Damping Lockout ($\ge 75\%$ depth collapse trap evasion).
-- **7-Agent Swarm Adversarial Tribunal**: 7 autonomous specialists debating signals with sub-microsecond in-memory cache lookup (**0.700 µs**).
-- **Directional Toxicity Intelligence**: Differentiates between hostile seller dumping (`CVD < 0` ➔ VETO) and aggressive buyer sweeps (`CVD > 0` ➔ PASS) under high VPIN.
-- **Embedded AegisDB In-Memory Engine**: Active in RAM (28.80µs write, 2.90µs read) with sub-microsecond drawdown invariant enforcement.
-- **Post-Trade Forensic Tribunal**: Post-fill slippage audit, 80.0% MFE trailing stop efficiency, and automated genomic parameter tuning.
-- **4-Step Bulletproof Execution**: 24-lot single ticket routing, Spot 15m VWAP anchored SL, 13:30 Theta rollover, and daemonized AWS systemd service.
+- **Dynamic Volatility-Adaptive Risk Clamping**: Tight spread execution under normal liquidity ($\le ₹0.05$), automatic orderbook spread lockout ($\ge ₹1.50$), Exponential Volatility Sizing Damper (scales position size down to 25% during $+15\%$ India VIX surges), and liquidity depth collapse protection.
+- **Deterministic Risk Matrix**: In-memory bitmask evaluation of trend, VWAP, liquidity depth, and order flow delta in $<10\ \mu\text{s}$.
+- **Directional Toxicity Intelligence**: Differentiates between aggressive seller dumping (`CVD < 0` ➔ VETO) and aggressive buyer sweeps (`CVD > 0` ➔ PASS) under high VPIN.
+- **Embedded AegisDB In-Memory Engine**: Active in RAM (28.80µs write, 2.90µs read) with storage-level drawdown invariant enforcement.
+- **Post-Trade Execution Analysis**: Systematic fill slippage auditing, 80.0% MFE trailing stop efficiency, and automated trade journaling.
+- **Production Execution Pipeline**: Multi-lot ticket routing, Spot 15m VWAP anchored stop-loss, 13:30 Theta rollover, and daemonized AWS systemd service.
+
+---
+
+### 🌊💎 [Crypto Bot — 24/7 Zero-Fee Scalper & Market Radar](https://github.com/rehanquantlab)
+> **High-Frequency Microstructure Spot Engine & Basis Arbitrage Surveillance** • **78/78 Pytest Passed**  
+> Pure spot architecture on Binance zero-maker-fee FDUSD pairs.
+
+- **Mathematical Primitives**: Evaluates Stoikov Orderbook Microprice ($P_{\text{micro}}$), Weighted Order Book Imbalance ($WOBI$), and Order Flow Imbalance ($OFI$) with sub-microsecond in-memory vectorized calculations.
+- **Noise-Filtered Stop-Loss**: Dynamically scaled stop-loss $\text{SL}_{\text{pct}} = \max(0.65\%, 2.0 \times \text{ATR})$ positioning exits outside normal 1-minute market volatility.
+- **Tiered Profit Ratchets**: Tier 1 (+0.35%) locks break-even (+0.08%), Tier 2 (+0.65%) locks +0.35%, Tier 3 (+1.00%) locks +0.65%, Tier 4 (+1.40%) activates tight trailing exit.
+- **Time-Decay Scratch Breaker**: Trades held $\ge 20$ minutes without directional impulse are automatically closed at break-even, eliminating dead capital drag.
+- **Correlation Cluster Guard**: Restricts concurrent BTC and ETH exposure to a single active trade, cutting correlated drawdown risk in half.
 
 ---
 
