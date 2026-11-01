@@ -4,12 +4,11 @@
 ### Founder &amp; Lead Systems Architect @ **Rehan Quant Lab™**
 
 <p align="center">
-  <a href="https://rehanquantlab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Founder+%26+Lead+Architect+%40+Rehan+Quant+Lab%E2%84%A2;4+Commercial+Sovereign+Desktop+Suites+Released;Creator+of+RQL+Conduit+(Bare-Metal+Rust+Multi-WAN+Engine);Zero-Cloud+Air-Gapped+Silicon+%E2%80%A2+Rs.+0%2FMo+Cloud+Rent;11%2F11+Mathematical+Invariants+Formally+Verified" alt="Mohammad Rehan Dynamic Role Rotator" />
+  <a href="https://github.com/mohammadrehan1621/rql-conduit">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Founder+%26+Lead+Architect+%40+Rehan+Quant+Lab%E2%84%A2;Creator+of+RQL+Conduit+(Bare-Metal+Rust+Multi-WAN+Engine);Deterministic+Network+Gateways+(11%2F11+Invariants+Passed);Zero-Cloud+Local+Transport+Architecture+(Sub-50%C2%B5s+Failover)" alt="Mohammad Rehan Dynamic Role Rotator" />
   </a>
 </p>
 
-[![Official Store](https://img.shields.io/badge/Official_Store-quantify17.gumroad.com-ff90e8?style=for-the-badge&logo=gumroad&logoColor=black)](https://quantify17.gumroad.com)
 [![Portfolio](https://img.shields.io/badge/Live_Portfolio-rehanquantlab.com-06b6d4?style=for-the-badge&logo=cloudflare&logoColor=white)](https://rehanquantlab.com)
 [![Organization](https://img.shields.io/badge/Lab-rehanquantlab-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rehanquantlab)
 [![GitHub](https://img.shields.io/badge/GitHub-mohammadrehan1621-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammadrehan1621)
@@ -20,13 +19,13 @@
 [![Email](https://img.shields.io/badge/Lab_Email-founder%40rehanquantlab.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:founder@rehanquantlab.com)
 
 <p align="center">
-  <b>Bridging 4+ years of commercial operations leadership with high-throughput distributed systems, deterministic network multiplexing &amp; sovereign offline infrastructure.</b><br>
+  <b>Bridging 4+ years of commercial operations leadership with high-throughput distributed systems, deterministic network multiplexing & autonomous infrastructure.</b><br>
   <i>Patna, Bihar, India • Global Edge Deployment Readiness • 11/11 Mathematical Invariants Formally Verified</i>
 </p>
 
 ---
 
-### ⚖️ The Sovereign Creed: Gall's Law &amp; Sun Tzu's Doctrine
+### ⚖️ The Sovereign Creed: Gall's Law & Sun Tzu's Doctrine
 > *"A complex system that works is always found to have evolved from a simple system that worked. A complex system designed from scratch never works and cannot be made to work. There is no getting around it; we must start with a simple working system."*  
 > — **John Gall, Systems Engineering Law**
 >
@@ -34,26 +33,11 @@
 > — **Sun Tzu, The Art of War**
 >
 > *"We must never build a monster we cannot understand. Deceptively simple and understated on the surface; unkillable, deterministic, and fortified with mathematical armor underneath."*  
-> — **Mohammad Rehan, Founder &amp; Lead Systems Architect**
+> — **Mohammad Rehan, Founder & Lead Systems Architect**
 
 ---
 
 </div>
-
-## 💼 Commercial Sovereign Desktop Flagships (Live Releases)
-> **100% Offline Air-Gapped Silicon • Zero Monthly Subscription Rent • Complete Client Data Sovereignty**  
-> All flagships are production-ready Windows binaries built in bare-metal Rust, distributed as standalone self-contained installers with lifetime commercial ownership.
-
-| Product Suite | Architectural Role &amp; Specialization | Engine / Silicon Specs | Ownership Model | Commercial Release |
-| :--- | :--- | :--- | :--- | :--- |
-| **RQL DocumentShield™** | Enterprise Air-Gapped OCR, Forensic Redaction &amp; PDF Sanitization Suite | Pure Rust • Sub-50ms OCR • Zero Cloud Egress • SHA-256 Tamper Audit | Pay Once, Own Forever<br>**$99 USD** *(₹7,999)* | [![Buy on Gumroad](https://img.shields.io/badge/Gumroad-$99_USD-ff90e8?style=flat-square&logo=gumroad&logoColor=black)](https://quantify17.gumroad.com/l/rql-documentshield) |
-| **RQL WhisperVault™** | Private Offline Speech-to-Text &amp; Biometric Audio Intelligence Suite | Local Whisper ONNX • Deterministic C-ABI • 100% On-Device RAM | Pay Once, Own Forever<br>**$149 USD** *(₹11,999)* | [![Buy on Gumroad](https://img.shields.io/badge/Gumroad-$149_USD-ff90e8?style=flat-square&logo=gumroad&logoColor=black)](https://quantify17.gumroad.com/l/rql-whispervault) |
-| **RQL Sovereign Retail POS™** | Single-Counter 100% Offline Retail POS, Barcode Scanner &amp; Inventory Ledger | Native Rust GUI • SQLite WAL • ESC/POS Thermal 80mm • GST Ready | Pay Once, Own Forever<br>**$199 USD** *(₹14,999)* | [![Buy on Gumroad](https://img.shields.io/badge/Gumroad-$199_USD-ff90e8?style=flat-square&logo=gumroad&logoColor=black)](https://quantify17.gumroad.com/l/rql-retailpos) |
-| **RQL StoreChain™** | Multi-Counter LAN Mesh &amp; Distributed Multi-Branch Retail Network Suite | LocalMesh TCP (Up to 5 Tills) • Sub-1ms LAN Sync • Merkle Chain | Pay Once, Own Forever<br>**$299 USD** *(₹24,999)* | [![Buy on Gumroad](https://img.shields.io/badge/Gumroad-$299_USD-ff90e8?style=flat-square&logo=gumroad&logoColor=black)](https://quantify17.gumroad.com/l/rql-storechain) |
-
-🏪 **Browse Complete Lab Catalog on Gumroad:** **[https://quantify17.gumroad.com](https://quantify17.gumroad.com)**
-
----
 
 ## ⚡ Flagship Architecture: [RQL Conduit (v2.0-PROD)](https://github.com/mohammadrehan1621/rql-conduit)
 > **Deterministic Zero-Cloud Multi-WAN Socket Multiplexing Engine with Bare-Metal Rust Kernel**  
@@ -79,7 +63,7 @@ Multi-Socket Strip Mining           Continuous Metric Gating                Volv
 Across All Healthy {A_i}            μ_RTT & σ_RTT Telemetry                 Zero Dropped Sessions
 ```
 
-### 🔬 Core Systems Specifications &amp; Invariants
+### 🔬 Core Systems Specifications & Invariants
 
 * **Universal C-ABI Dynamic Library (`rql_conduit_core.dll` — 956 KB):** Compiled directly from source via `rustc 1.99.1` (`opt-level = 3`, `lto = "fat"`). Zero garbage collection pauses, sub-50µs socket failover, and $<4\text{MB}$ memory footprint.
 * **Standalone Native CLI Daemon (`RQLConduit-Rust.exe` — 471 KB):** Independent zero-dependency Windows binary requiring no Python, Node.js, PHP, or JVM runtime.
@@ -111,35 +95,19 @@ Across All Healthy {A_i}            μ_RTT & σ_RTT Telemetry                 Ze
 
 ---
 
-## 🏛️ The 9 Titan Sovereign Invariants
-Every system engineered under the Rehan Quant Lab banner must satisfy 9 non-negotiable architectural pillars:
-
-1. **Pillar I — 100% Offline Air-Gapped Execution:** Zero telemetry, zero external cloud pings, zero phone-home traps.
-2. **Pillar II — Zero Monthly Subscription Rent:** Pay once, own forever ($0/month recurring cost).
-3. **Pillar III — Bare-Metal Compiled Silicon:** Native Rust / C-ABI kernels with zero runtime interpreter bloat.
-4. **Pillar IV — Sub-Millisecond Deterministic Latency:** UI interactions, database queries, and hardware I/O execute in $< 1\text{ms}$.
-5. **Pillar V — Crash-Resilient ACID Storage:** SQLite WAL (Write-Ahead Logging) + chained SHA-256 tamper-evident transaction ledgers.
-6. **Pillar VI — Universal Hardware Agnosticism:** Direct native USB, COM serial, and LAN bindings for thermal printers, barcode scanners, and scales.
-7. **Pillar VII — Self-Contained Zero-Dependency Distribution:** 1-click Windows setup wizards with bundled desktop/Start Menu icons and uninstaller.
-8. **Pillar VIII — Client Total Data Sovereignty:** Cryptographic zero-leakage guarantee. Client financial and customer data never leaves host storage.
-9. **Pillar IX — Mechanical Volvo Airbag Chassis:** Deterministic defensive failover and graceful state recovery under unexpected OS or hardware shocks.
-
----
-
 <div align="center">
 
-### 📊 Real-Time GitHub Telemetry &amp; Stats
+### 📊 Real-Time GitHub Telemetry & Stats
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=mohammadrehan1621&show_icons=true&theme=tokyonight&hide_border=false&border_color=6366f1&bg_color=0f172a&title_color=38bdf8&icon_color=10b981&text_color=94a3b8" height="155" alt="Rehan's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=mohammadrehan1621&show_icons=true&theme=tokyonight&hide_border=false&border_color=6366f1&bg_color=0f172a&title_color=38bdf8&icon_color=10b981&text_color=94a3b8" height="155" alt="Rehan's GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadrehan1621&theme=tokyonight&hide_border=false&border_color=6366f1&background=0f172a&ring=6366f1&fire=f59e0b&currStreakLabel=10b981" height="155" alt="Rehan's Streak Stats" />
 
 ---
 
-### 📬 Direct Fast-Connect &amp; Verified Routes
+### 📬 Direct Fast-Connect & Verified Routes
 
 - 🌐 **Interactive Portfolio**: [rehanquantlab.com](https://rehanquantlab.com)
-- 🏪 **Official Gumroad Store**: [quantify17.gumroad.com](https://quantify17.gumroad.com)
-- 📝 **Technical Papers &amp; Research**: [rehanquantlab.substack.com](https://rehanquantlab.substack.com)
+- 📝 **Technical Papers & Research**: [rehanquantlab.substack.com](https://rehanquantlab.substack.com)
 - 🐦 **Official X (Twitter)**: [@rehanquantlab](https://x.com/rehanquantlab)
 - 💬 **WhatsApp Direct**: [+91 70915 18548](https://wa.me/917091518548?text=Hello%20Rehan,%20I%20found%20you%20via%20your%20GitHub%20profile.)
 - 📧 **Official Lab Email**: [founder@rehanquantlab.com](mailto:founder@rehanquantlab.com)
