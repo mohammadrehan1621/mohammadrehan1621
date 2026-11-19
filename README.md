@@ -5,7 +5,11 @@
 
 <p align="center">
   <a href="https://rehanquantlab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1000&color=FAFAFA&center=true&vCenter=true&width=750&lines=Founder+%26+Principal+Systems+Architect+%40+Rehan+Quant+Lab%E2%84%A2;Building+33+Sovereign+64-Bit+Desktop+Workstations+in+Pure+Rust;Air-Gapped+Invariants+%E2%80%A2+0+Outbound+Sockets+%E2%80%A2+Zero+Telemetry;Deterministic+In-RAM+SIMD+Systems+%E2%80%A2+Lifetime+Ownership" alt="Role Rotator" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1000&color=F8FAFC&center=true&vCenter=true&width=750&lines=Founder+%26+Principal+Systems+Architect+%40+Rehan+Quant+Lab%E2%84%A2;Building+33+Sovereign+64-Bit+Desktop+Workstations+in+Pure+Rust;Air-Gapped+Invariants+%E2%80%A2+0+Outbound+Sockets+%E2%80%A2+Zero+Telemetry;Deterministic+In-RAM+SIMD+Systems+%E2%80%A2+Lifetime+Ownership">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1000&color=0F172A&center=true&vCenter=true&width=750&lines=Founder+%26+Principal+Systems+Architect+%40+Rehan+Quant+Lab%E2%84%A2;Building+33+Sovereign+64-Bit+Desktop+Workstations+in+Pure+Rust;Air-Gapped+Invariants+%E2%80%A2+0+Outbound+Sockets+%E2%80%A2+Zero+Telemetry;Deterministic+In-RAM+SIMD+Systems+%E2%80%A2+Lifetime+Ownership">
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1000&color=0F172A&center=true&vCenter=true&width=750&lines=Founder+%26+Principal+Systems+Architect+%40+Rehan+Quant+Lab%E2%84%A2;Building+33+Sovereign+64-Bit+Desktop+Workstations+in+Pure+Rust;Air-Gapped+Invariants+%E2%80%A2+0+Outbound+Sockets+%E2%80%A2+Zero+Telemetry;Deterministic+In-RAM+SIMD+Systems+%E2%80%A2+Lifetime+Ownership" alt="Role Rotator" />
+    </picture>
   </a>
 </p>
 
