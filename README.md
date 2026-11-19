@@ -37,3 +37,40 @@
 
 ## 🏛️ Flagship Fleet: 33 Sovereign Desktop Workstations
 > **Native 64-bit Windows applications built in pure Rust. Zero cloud telemetry. Zero background daemons. In-RAM volatile buffers. Lifetime commercial ownership.**
+
+| Workstation Suite | Architectural Invariant | Target Enterprise Domain |
+| :--- | :--- | :--- |
+| **RQL DocumentShield™** | Redacts PDFs in volatile RAM (Zero Disk Leaks) | Legal Chambers & Compliance |
+| **RQL WhisperVault™** | Local CPU/GPU Offline Audio-to-Text | Investigative Journalism & Audio |
+| **RQL Sovereign Retail POS™** | Dual-Cash Drawer & Tax WAL (Air-Gapped) | High-Volume Showrooms & Retail |
+| **RQL StoreChain™** | Local Merkle Tree Multi-Store DB Engine | Offline Distributed Retail |
+| **RQL Conduit™** | Multi-WAN Bare-Metal Rust Kernel | High-Availability Network Transport |
+| **RQL PortVault™ / Hash™** | In-RAM Cryptographic Integrity & Port Lock | Air-Gap Security Operations |
+
+👉 **Commercial Catalog & Immediate Deployment:** [rehanquantlab.com/store](https://rehanquantlab.com/store) • [rehanquantlab.gumroad.com](https://rehanquantlab.gumroad.com)
+
+---
+
+## ⚡ Core Open-Source Kernel: [RQL Conduit (v2.0-PROD)](https://github.com/mohammadrehan1621/rql-conduit)
+> **Deterministic Zero-Cloud Multi-WAN Socket Multiplexing Engine with Bare-Metal Rust Kernel**  
+> Bonds multiple physical network interfaces (Fiber, Ethernet, 5G/LTE) directly on the host machine using unprivileged Winsock2 socket binding, continuous stochastic RTT jitter variance estimation, and a 4-tier safety chassis.
+
+* **Universal C-ABI Dynamic Library (`rql_conduit_core.dll` — 956 KB):** Compiled via `rustc 1.99.1` (`opt-level = 3`, `lto = "fat"`). Zero GC pauses, sub-50µs failover.
+* **Standalone Native CLI Daemon (`RQLConduit-Rust.exe` — 471 KB):** Zero external runtime dependencies.
+* **11/11 Formally Verified Mathematical Invariants:** 100% test pass rate in 1.08s.
+
+---
+
+<div align="center">
+
+### 📬 Direct Fast-Connect & Verified Routes
+
+- 🌐 **Commercial Portal**: [rehanquantlab.com](https://rehanquantlab.com)
+- 🛍️ **Workstation Store**: [rehanquantlab.gumroad.com](https://rehanquantlab.gumroad.com)
+- 💼 **LinkedIn Profile**: [linkedin.com/in/mohammad-rehan-tech](https://www.linkedin.com/in/mohammad-rehan-tech/)
+- 🏢 **GitHub Organization**: [github.com/rehanquantlab](https://github.com/rehanquantlab)
+- 📸 **Personal Instagram**: [@rehan_1621_](https://www.instagram.com/rehan_1621_/)
+- 📸 **Company Instagram**: [@rehanquantlab](https://www.instagram.com/rehanquantlab/)
+- 📧 **Official Lab Email**: [architect@rehanquantlab.com](mailto:architect@rehanquantlab.com)
+
+</div>
