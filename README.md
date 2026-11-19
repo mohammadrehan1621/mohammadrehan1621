@@ -14,6 +14,7 @@
 </p>
 
 [![Website](https://img.shields.io/badge/Production-rehanquantlab.com-faf9f6?style=for-the-badge&logo=googlechrome&logoColor=0d0d0c)](https://rehanquantlab.com)
+[![Google Developer](https://img.shields.io/badge/Google_Developer-g.dev%2Frehanquantlab-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/rehanquantlab)
 [![Store](https://img.shields.io/badge/Commercial_Store-Gumroad-faf9f6?style=for-the-badge&logo=gumroad&logoColor=0d0d0c)](https://rehanquantlab.gumroad.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad_Rehan-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-rehan-tech/)
 [![GitHub Org](https://img.shields.io/badge/Organization-rehanquantlab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rehanquantlab)
@@ -70,6 +71,7 @@
 ### 📬 Direct Fast-Connect & Verified Routes
 
 - 🌐 **Commercial Portal**: [rehanquantlab.com](https://rehanquantlab.com)
+- 🏅 **Google Developer Profile**: [g.dev/rehanquantlab](https://g.dev/rehanquantlab)
 - 🛍️ **Workstation Store**: [rehanquantlab.gumroad.com](https://rehanquantlab.gumroad.com)
 - 💼 **LinkedIn Profile**: [linkedin.com/in/mohammad-rehan-tech](https://www.linkedin.com/in/mohammad-rehan-tech/)
 - 🏢 **GitHub Organization**: [github.com/rehanquantlab](https://github.com/rehanquantlab)
